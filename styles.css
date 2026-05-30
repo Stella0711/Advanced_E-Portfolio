@@ -375,7 +375,8 @@ nav {
     height: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;    
+    justify-content: center; 
+    z-index: -1;   
 }
 
 .modal__overlay--loading {
@@ -390,6 +391,10 @@ nav {
     font-weight: 700;
     text-align: center;
     padding: 20px;    
+}
+
+.modal__overlay--visible {
+    z-index: 1;
 }
 
 .fa-spinner {
