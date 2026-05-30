@@ -62,7 +62,7 @@ input:hover, textarea:hover {
 }
 
 input:hover, textarea:focus {
-    border-color: #f06449;
+    border-color: #e65cba;
 }
 
 .container {
@@ -98,7 +98,7 @@ input:hover, textarea:focus {
 }
 
 .orange {
-    color: #f06449 !important;
+    color: #e65cba !important;
 }
 
 .link__hover-effect {
@@ -173,7 +173,7 @@ nav,
 
 .dark-theme .mail__btn {
     background-color: white;
-    color: #242424;
+    color: #e65cba;
 }
 
 /*
@@ -208,7 +208,7 @@ nav,
 }
 
 .social__link {
-    background-color: #f06449;
+    background-color: #e65cba;
     color: white;
     padding: 6px;
     width: 32px;
@@ -227,7 +227,7 @@ nav,
     font-size: 32px;
     border-radius: 50%;
     border: none;
-    background-color: #242424;
+    background-color: #e65cba;
     color: white;
     position: fixed;
     bottom: 32px;
@@ -290,8 +290,8 @@ nav {
 }
 
 #personal-logo {
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     filter: invert(1);
 }
 
@@ -418,8 +418,8 @@ nav {
 }
 
 .form__submit {
-   background-color: #f06449;
-   border: 2px solid #f06449;
+   background-color: #e65cba;
+   border: 2px solid #e65cba;
    color: white;
    font-weight: 700;
    width: 100%;
@@ -435,8 +435,8 @@ nav {
 }
 
 .form__submit:active {
-    border-color: #f06449;
-    color: #f06449;
+    border-color: #e65cba;
+    color: #e65cba;
 }
 
 .modal__overlay {
